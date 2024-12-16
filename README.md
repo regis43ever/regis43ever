@@ -27,6 +27,5 @@ Development Environment: Visual Studio Code
 As a student, I’m excited to explore how technology can drive positive change, especially in climate adaptation and community-focused solutions. I'm also dedicated to growing the Drupal community in Burkina Faso and using it to create impactful digital experiences.
 
 🤝 Let’s Connect!
-💼 LinkedIn: [Your LinkedIn URL]
-🌐 Portfolio: [Your Portfolio URL]
-📫 Email: [Your Email]
+💼 LinkedIn: https://www.linkedin.com/in/wendwaogo-armel-r%C3%A9gis-sawadogo-469b91225/
+📫 Email: armelsawa@gmail.com
